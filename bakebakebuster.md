@@ -4,4 +4,4 @@ Click on the spirits to melt them before they get to Reigen!! The bigger the spi
 
 Sorry mobile users :P
 
-<iframe src="https://itch.io/embed-upload/1845011?color=333333" allowfullscreen="" width="640" height="640" frameborder="0"></iframe>
+<iframe src="https://itch.io/embed-upload/1846209?color=333333" allowfullscreen="" width="640" height="640" frameborder="0"></iframe>
