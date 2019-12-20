@@ -1,3 +1,5 @@
+<a href="index.html">Back to index</a>
+
 ## Bakebake Buster
 
 Click on the spirits to melt them before they get to Reigen!! The bigger the spirit is, the more you need to click them.
