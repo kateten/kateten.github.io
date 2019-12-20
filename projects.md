@@ -6,6 +6,5 @@ Stuff I'm working on, or have worked on.
 - <a href="bakebakebuster.html">Bakebake Buster</a>: Melt spirits.
 
 <b>To-do List</b>:
-- Shinsei Snacking
-- Kurokoma Dash
+- Chromekoma Pegasus
 - Headpat sim OwO
