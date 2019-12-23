@@ -1,4 +1,4 @@
-<a href="https://kateten.github.io/index.html/">Back to index</a>
+<a href="https://kateten.github.io/index.html">Back to index</a>
 
 ## Bakebake Buster
 
