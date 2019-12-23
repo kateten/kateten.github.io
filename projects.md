@@ -1,3 +1,5 @@
+<a href="index.html">Back to index</a>
+
 ## Projects
 
 Stuff I'm working on, or have worked on.
