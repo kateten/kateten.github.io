@@ -1,4 +1,4 @@
-<a href="master/index.html">Back to index</a>
+<a href="kateten.github.io/index.html">Back to index</a>
 
 ## Whack-A-Mineta
 
